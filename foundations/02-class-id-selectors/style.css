@@ -1,0 +1,19 @@
+body {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.odd-numb {
+    background-color: pink;
+    font-size: 24px;
+}
+
+#even-numb {
+    color: blue;
+    font-size: 36px;
+}
+
+#another-even-numb {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

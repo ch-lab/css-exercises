@@ -1,0 +1,27 @@
+/* 
+  Prefer using classes to target elements precisely and keep styling consistent. 
+  HTML handles structure, CSS handles style — classes connect them cleanly.
+*/
+
+.container p {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+/* 
+
+div p {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+This CSS rule applies to all <p> elements that are descendants of <div> elements.
+The text color will be red, the background color will be yellow, the font size will be 20px,
+and the text will be centered. */
+
+
